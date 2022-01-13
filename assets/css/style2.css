@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(231, 231, 231);
+}
+
+h1{
+    text-align: center;
+}
+
+header{
+    background-color: grey;
+    color: white;
+}
+
+.rojo{
+    font-style: italic;
+    color: red;
+}
+
+.negro{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+
+}
+
+.caja{
+    display: flex;
+}
+
+.imagen{
+    width: 150px;
+}

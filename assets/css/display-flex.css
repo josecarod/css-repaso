@@ -1,0 +1,36 @@
+body{
+    background-color: lightgrey;
+}
+
+.caja{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.verde{
+    background-color: green;
+    /*align-self: center;*/
+}
+
+.amarillo{
+    background-color: yellow;
+}
+
+.contenedor{
+    display: flex;
+    height: 600px;
+    border: 3px solid purple;
+    justify-content: space-evenly;
+    align-items: flex-start ;
+    flex-wrap: wrap; 
+    
+}
